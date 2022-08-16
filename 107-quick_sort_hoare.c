@@ -47,7 +47,6 @@ void Qsort(int *array, int left, int right, size_t size)
  * @right: End point
  * @size: Pointer to the previous element of the list
  *
- * Description: New partitions
  * Return: int Pivot
  */
 int hoare(int *array, int left, int right, size_t size)
